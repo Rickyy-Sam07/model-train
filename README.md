@@ -25,5 +25,5 @@ The dataset used for training and evaluation consists of labeled medical images 
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/lung-cancer-detection-resnet50.git
+git clone https://github.com/Rickyy-Sam07/model-train.git
 
